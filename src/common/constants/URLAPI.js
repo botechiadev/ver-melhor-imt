@@ -1,0 +1,1 @@
+export const URLAPI = "https://ver-melhor-server.onrender.com/"
