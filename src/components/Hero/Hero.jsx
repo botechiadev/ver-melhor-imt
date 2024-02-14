@@ -1,6 +1,6 @@
 import {useNavigate} from 'react-router-dom'
 import { ContainerHero } from './styled.Hero'
-import logoVerMelhor from './../../assets/logoVerMelhor.png'
+import logoVerMelhor from './../../assets/logoVerMelhor.svg'
 import {handleRegister, handleProducts} from './../../router/coordinator'
 export default function Hero() {
   const navigate = useNavigate()

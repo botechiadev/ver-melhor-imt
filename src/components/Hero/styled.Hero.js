@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import bg from '../../assets/img/bg.png'
+import bg from '../../assets/bg/bg01Wave.svg'
 
 export const ContainerHero = styled.div`
   height: 100vh;
@@ -49,7 +49,7 @@ object-fit: contain;
     }
 
     50% {
-        transform: scale3d(1.05,1.05,1.05)
+        transform: scale3d(1.05,1.00,1.05)
     }
 
     to {

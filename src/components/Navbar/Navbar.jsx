@@ -1,5 +1,5 @@
 
-import {handleHome, handleLogin, handleProducts , handleDetails, handleRegister} from './../../router/coordinator'
+import {handleHome, handleLogin, handleProducts , handleRegister} from './../../router/coordinator'
 import { useNavigate } from 'react-router-dom'
 import { ContainerNavbar } from './styled.Navbar'
 export default function Navbar() {

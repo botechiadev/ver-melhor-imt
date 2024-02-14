@@ -31,7 +31,8 @@ export const ContainerFooter = styled.footer`
     }
 
     img{
-        width: 70px;
+        width: auto;
         height: 40px;
+        padding-bottom: 10px;
     }
 `

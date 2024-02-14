@@ -4,7 +4,7 @@ import { FaLinkedin } from "react-icons/fa";
 import { FaRegEnvelope } from "react-icons/fa";
 import logoIMT from './../../assets/logoIMT.png'
 import logoPrint from './../../assets/logoPrint.png'
-import logoVerMelhor from './../../assets/logoVerMelhor.png'
+import logoVerMelhor from './../../assets/logoVerMelhor.svg'
 export default function Footer() {
 
   return (
